@@ -1,0 +1,20 @@
+body {background-attachment: fixed;
+background-color: white;
+background-image: url(Adstornado.jpg);
+background-repeat: repeat;
+background-size: cover;}
+
+
+h1 {color: palevioletred;
+font-size: 60px;
+}
+
+
+img {
+    width: 250px;
+}
+
+ul li {color: chocolate;}
+
+ul li a {color: black;}
+
