@@ -36,6 +36,7 @@ body {background-attachment: fixed;
     border-color: whitesmoke   ;}
     
 .jumbotron {background-color: whitesmoke;
+    background-image: url(balloonsky.jpeg);
 }
   
 .jumbotron h1 {font-family: Arial, Helvetica, sans-serif;
